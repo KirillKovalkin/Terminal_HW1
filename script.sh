@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 #Script lesson 1 GitBash by Kirill Kovalkin
 
 mkdir test
