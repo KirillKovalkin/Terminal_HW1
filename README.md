@@ -61,7 +61,7 @@
 
     sudo find / -type f -iname text_1.txt
     
-:small_blue_diamond: **16) просмотреть содержимое в реальном времени (команда grep) изучите как она работает.**
+:small_blue_diamond: **16) просмотреть содержимое в реальном времени (команда grep)**
 
     tail -F 123.txt | grep "123" 
 
