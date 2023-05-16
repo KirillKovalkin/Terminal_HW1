@@ -84,8 +84,8 @@
 
 
 Задание *
-1) Отправить http запрос на сервер.
-http://162.55.220.72:5005/terminal-hw-request
+
+:small_blue_diamond: **1) Отправить http запрос на сервер. http://162.55.220.72:5005/terminal-hw-request**
 
     curl http://162.55.220.72:5005/terminal-hw-request
     
@@ -95,6 +95,6 @@ http://162.55.220.72:5005/terminal-hw-request
 
 ![Screenshot_2](https://i.imgur.com/rRUMyHc.png)
 
-2) Написать скрипт который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13    
+:small_blue_diamond: **2) Написать скрипт который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13**
 
 [script.sh](https://github.com/KirillKovalkin/Terminal_HW1/blob/main/script.sh)
