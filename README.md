@@ -89,11 +89,11 @@
 
     curl http://162.55.220.72:5005/terminal-hw-request
     
-![Screenshot_1](https://i.imgur.com/WBTeduQ.png)
+![image](https://github.com/KirillKovalkin/Terminal_HW1/assets/108697657/e1f67d88-a8da-40f1-8d25-adfdebf50cc9)
 
     curl http://162.55.220.72:5005/get_method\?name\=Kirill\&age\=30 
 
-![Screenshot_2](https://i.imgur.com/rRUMyHc.png)
+![image](https://github.com/KirillKovalkin/Terminal_HW1/assets/108697657/4a312194-85c3-4def-aa12-a69afa175cce)
 
 :small_blue_diamond: **2) Написать скрипт который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13**
 
