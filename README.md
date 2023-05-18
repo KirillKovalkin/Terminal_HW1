@@ -89,7 +89,7 @@
 
     curl http://162.55.220.72:5005/terminal-hw-request
     
-![image](https://github.com/KirillKovalkin/Terminal_HW1/assets/108697657/e1f67d88-a8da-40f1-8d25-adfdebf50cc9)
+![image](https://github.com/KirillKovalkin/Terminal_HW1/assets/108697657/81d70550-1dce-4710-a5e0-44bbbf447d26)
 
     curl http://162.55.220.72:5005/get_method\?name\=Kirill\&age\=30 
 
