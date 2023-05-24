@@ -5,7 +5,7 @@
 pwd
 ```
 :small_blue_diamond: **2) Создать папку**
-```bash    
+```bash
 mkdir test
 ```
 :small_blue_diamond: **3) Зайти в папку**
